@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yaro
+- 👋 Hi, I’m Yaro
 - 👀 I’m interested in API and mobile app development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter projects
